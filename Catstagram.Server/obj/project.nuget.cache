@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "67C7i9ftS6xamRVn4MtdTDspF82MjIfREF1JVbZ+6Zc40nJ9EgSvdz2udVntOgVejwYaHux/hp74FbIJpH4R8Q==",
+  "dgSpecHash": "fA1Tkp+zUopRh/KXbrAtmLmJhYO/bI/mjxyj3PsW1GOlFeCt1z+S1X9zM8IfA19Y1j+8Qxn6W1vYP02WnbZgxQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ikost\\source\\repos\\Ivkoto\\Catstagram\\Catstagram.Server\\Catstagram.Server\\Catstagram.Server.csproj",
+  "projectFilePath": "C:\\Users\\ikost\\source\\repos\\Ivkoto\\Catstagram\\Catstagram.Server\\Catstagram.Server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ikost\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\ikost\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.1\\microsoft.aspnetcore.authentication.jwtbearer.5.0.1.nupkg.sha512",

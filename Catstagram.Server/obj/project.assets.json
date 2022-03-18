@@ -5562,11 +5562,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ikost\\source\\repos\\Ivkoto\\Catstagram\\Catstagram.Server\\Catstagram.Server\\Catstagram.Server.csproj",
+      "projectUniqueName": "C:\\Users\\ikost\\source\\repos\\Ivkoto\\Catstagram\\Catstagram.Server\\Catstagram.Server.csproj",
       "projectName": "Catstagram.Server",
-      "projectPath": "C:\\Users\\ikost\\source\\repos\\Ivkoto\\Catstagram\\Catstagram.Server\\Catstagram.Server\\Catstagram.Server.csproj",
+      "projectPath": "C:\\Users\\ikost\\source\\repos\\Ivkoto\\Catstagram\\Catstagram.Server\\Catstagram.Server.csproj",
       "packagesPath": "C:\\Users\\ikost\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ikost\\source\\repos\\Ivkoto\\Catstagram\\Catstagram.Server\\Catstagram.Server\\obj\\",
+      "outputPath": "C:\\Users\\ikost\\source\\repos\\Ivkoto\\Catstagram\\Catstagram.Server\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ikost\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5634,7 +5634,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
